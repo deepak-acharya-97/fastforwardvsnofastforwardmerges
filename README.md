@@ -5,5 +5,6 @@
 
 i.e.
 
-* _Fast Forward Merge_
-* _True Merge_
+* *Fast Forward Merge*
+* *True Merge*
+```
